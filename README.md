@@ -2,7 +2,7 @@
 ## Бранко Георгиев, 213077
 
 ### Control Flow Graph
-![cfg](https://github.com/brankogeorgiev/SI_2023_lab2_213077/assets/75042838/ebf3b098-2b9f-4a33-96ed-d06ad1a62d1a)
+![cfg](https://github.com/brankogeorgiev/SI_2023_lab2_213077/assets/75042838/b5d60558-b9b5-4e49-a30b-5df01db3464a)
 
 
 ### Цикломатска комплексност
